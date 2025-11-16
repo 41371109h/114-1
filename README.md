@@ -8,3 +8,4 @@
 - [HW3](https://github.com/41371109h/114-1/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
 - [HW4](https://github.com/41371109h/114-1/blob/main/hw4_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)
 - [HW5](https://github.com/41371109h/114-1/blob/main/hw5_%E5%8D%88%E9%A4%90%E8%81%9A%E6%9C%83%E6%B1%BA%E7%AD%96%E5%99%A8.ipynb)
+- [HW6]https://github.com/41371109h/114-1/blob/main/hw6%EF%BC%BF%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E8%88%87%E6%8F%90%E9%86%92%E7%B4%A0%E6%9D%90.ipynb
